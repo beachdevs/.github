@@ -1,29 +1,27 @@
-# BeachDevs
+
+![Sunset Beach Labs banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fffdf0,100:fff4c7&text=Sunset%20Beach%20Labs&fontColor=1d1d1f&fontSize=48&fontAlignY=40&desc=Reliable%20AI%20agents%2C%20infrastructure%20automation%2C%20high-performance%20systems&descSize=18&descAlignY=62)
 
 Building reliable AI agents, infrastructure automation, and high-performance systems.
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-beachdevs-181717?style=for-the-badge&logo=github)](https://github.com/beachdevs)
-[![Repos](https://img.shields.io/badge/Repos-10-0ea5e9?style=for-the-badge)](https://github.com/beachdevs?tab=repositories)
+[![GitHub Org](https://img.shields.io/badge/GitHub-beachdevs-1d1d1f?style=for-the-badge&logo=github)](https://github.com/beachdevs)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Projects-0066cc?style=for-the-badge)](https://github.com/beachdevs?tab=repositories)
+
+
+> HTML styles are preserved in [`profile/styled-profile.html`](./styled-profile.html).  
+> GitHub profile READMEs sanitize full-page CSS, so this README uses GitHub-safe Markdown rendering.
 
 ## Open Source
 
-- 🔌 [`apicli`](https://github.com/beachdevs/apicli)
-- 🤖 [`gptjs`](https://github.com/beachdevs/gptjs)
-- 📡 [`compare-network`](https://github.com/beachdevs/compare-network)
-- 🧩 [`jsonc-data`](https://github.com/beachdevs/jsonc-data)
-- 🍦 [`vanilla-light`](https://github.com/beachdevs/vanilla-light)
-- 📦 [`container`](https://github.com/beachdevs/container)
-- 🌱 [`CodeSprout`](https://github.com/beachdevs/CodeSprout)
-- 🌐 [`ssbeach.com`](https://github.com/beachdevs/ssbeach.com)
+- 🔌 [`beachdevs/apicli`](https://github.com/beachdevs/apicli)
+- 🤖 [`beachdevs/gptjs`](https://github.com/beachdevs/gptjs)
+- 📡 [`beachdevs/compare-network`](https://github.com/beachdevs/compare-network)
+- 🧩 [`beachdevs/jsonc-data`](https://github.com/beachdevs/jsonc-data)
+- 🍦 [`beachdevs/vanilla-light`](https://github.com/beachdevs/vanilla-light)
+- 📦 [`beachdevs/container`](https://github.com/beachdevs/container)
+- 🌱 [`beachdevs/CodeSprout`](https://github.com/beachdevs/CodeSprout)
+- 🌐 [`beachdevs/ssbeach.com`](https://github.com/beachdevs/ssbeach.com)
 
-## Featured Repos
-
-| | |
-| --- | --- |
-| [![gptjs](https://github-readme-stats.vercel.app/api/pin/?username=beachdevs&repo=gptjs&hide_border=true)](https://github.com/beachdevs/gptjs) | [![vanilla-light](https://github-readme-stats.vercel.app/api/pin/?username=beachdevs&repo=vanilla-light&hide_border=true)](https://github.com/beachdevs/vanilla-light) |
-| [![container](https://github-readme-stats.vercel.app/api/pin/?username=beachdevs&repo=container&hide_border=true)](https://github.com/beachdevs/container) | [![jsonc-data](https://github-readme-stats.vercel.app/api/pin/?username=beachdevs&repo=jsonc-data&hide_border=true)](https://github.com/beachdevs/jsonc-data) |
-
-## Repo Lineup
+## Project Links
 
 | Repository | Language | Description |
 | --- | --- | --- |
@@ -35,10 +33,8 @@ Building reliable AI agents, infrastructure automation, and high-performance sys
 | [`compare-network`](https://github.com/beachdevs/compare-network) | C | Network comparison tooling |
 | [`CodeSprout`](https://github.com/beachdevs/CodeSprout) | JavaScript | App and code tooling |
 | [`ssbeach.com`](https://github.com/beachdevs/ssbeach.com) | HTML | Website |
-| [`beachdevs`](https://github.com/beachdevs/beachdevs) | - | Org profile repository |
-| [`.github`](https://github.com/beachdevs/.github) | - | Community profile repository |
 
 ## Preview
 
-- Live app preview: [qeditor.dev](https://qeditor.dev)
-- Full org projects: [github.com/beachdevs](https://github.com/beachdevs)
+- Live preview: [qeditor.dev](https://qeditor.dev)
+- All repositories: [github.com/beachdevs](https://github.com/beachdevs?tab=repositories)
