@@ -1,14 +1,7 @@
 
 ![Sunset Beach Labs banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fffdf0,100:fff4c7&text=Sunset%20Beach%20Labs&fontColor=1d1d1f&fontSize=48&fontAlignY=40&desc=Reliable%20AI%20agents%2C%20infrastructure%20automation%2C%20high-performance%20systems&descSize=18&descAlignY=62)
 
-Building reliable AI agents, infrastructure automation, and high-performance systems.
-
 [![GitHub Org](https://img.shields.io/badge/GitHub-beachdevs-1d1d1f?style=for-the-badge&logo=github)](https://github.com/beachdevs)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Projects-0066cc?style=for-the-badge)](https://github.com/beachdevs?tab=repositories)
-
-
-> HTML styles are preserved in [`profile/styled-profile.html`](./styled-profile.html).  
-> GitHub profile READMEs sanitize full-page CSS, so this README uses GitHub-safe Markdown rendering.
 
 ## Open Source
 
